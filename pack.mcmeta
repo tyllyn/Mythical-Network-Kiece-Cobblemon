@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": [
+		{
+			"text": "v4.1",
+			"color": "green"
+		},
+		{ "text": " " },
+		{
+			"text": "Cobblemon icons from Pokemon Shuffle (and more) for Xaero's Minimap",
+			"color": "white"
+
+		}
+	]
+  }
+}
